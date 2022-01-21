@@ -1,2 +1,2 @@
-sally_tutorials
+carrot_planner:sally_tutorials
 -DCATKIN_DEVEL_PREFIX=/home/suramya/sally_ws/devel -DCMAKE_INSTALL_PREFIX=/home/suramya/sally_ws/install -G Unix Makefiles

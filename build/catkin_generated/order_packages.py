@@ -2,4 +2,4 @@
 source_root_dir = '/home/suramya/sally_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/suramya/sally_ws/devel;/home/suramya/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/suramya/sally_ws/devel;/home/suramya/catkin_ws/devel;/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/suramya/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/suramya/catkin_ws/devel;/opt/ros/melodic' != '' else []

@@ -1,0 +1,8 @@
+prefix=/home/suramya/sally_ws/devel
+
+Name: kinoastar
+Description: Description of kinoastar
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
