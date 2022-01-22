@@ -1,8 +1,0 @@
-prefix=/home/suramya/sally_ws/install
-
-Name: sally_tutorials
-Description: Description of sally_tutorials
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

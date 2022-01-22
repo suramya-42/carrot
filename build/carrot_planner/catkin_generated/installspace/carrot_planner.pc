@@ -1,8 +1,0 @@
-prefix=/home/suramya/sally_ws/install
-
-Name: carrot_planner
-Description: Description of carrot_planner
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

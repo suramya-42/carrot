@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libkinoplanner.so -o /home/suramya/sally_ws/devel/lib/libkinoplanner.so CMakeFiles/kinoplanner.dir/src/kinoastar.cpp.o 
